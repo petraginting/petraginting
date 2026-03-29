@@ -1,4 +1,3 @@
-![Petra Ginting](img/banner.png)
 
 <h2 align="left">Hey 👋What's Up?</h2>
 
